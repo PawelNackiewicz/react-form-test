@@ -1,4 +1,5 @@
 import React from "react";
+import { Button } from "./components/UI/atoms/Button";
 
 export function App() {
   return (
